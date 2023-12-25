@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Bee Facts</title>
+    </head>
+    <body>
+        <center><p><h2><i><font color="red">Interesting Facts About Bee</font></i></h2></p>
+        <img src="run1.png"height=25%,width=15%><img src="Rok1.PNG"></center>
+        <ul>
+                <li><h3><i><font color="blue">Bees have 5 eyes and 6 legs.</font></i></h3></li>
+            <li><h3><i><font color="green">Honey bees harvestnectar and pollen from
+                flowering plants.
+            </font></i></h3></li>
+            <li><h3><i><font color="orange">A single bee can collect enough nectar to make 1/12 of a teaspoon
+            os honey.
+            </font> </i></h3></li>
+            <li><h3><i><font color="red">Honey has Surprising Health Benefits.</font></i></h3></li>
+            <li><h3><i><font color="blue">Honey bees are super-important pollinators forflowers,
+                fruits and vegetables.
+            </font></i></h3></li>
+            <li><h3><i><font color="green">Honey Bees live in large groups called 
+                colonies.</font></i></h3></li>
+            <li><h3><i><font color="orange">An average can hold around 50,000 bees.</font></i></h3></li>
+        </ul>
+            <a href="Tiny_Little_Bee_Brain.html"><h4><center>Back to Home</center></h4></a>
+            <a href="rubk.html"><h4><center>Back to Home</center></h4></a>
+    </body>
+</html>
